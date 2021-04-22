@@ -299,17 +299,17 @@ const blogSection = {
         "https://turcomat.org/index.php/turkbilmat/article/view/2037/1764",
       title: "NdRAdAC: Need based Access Control Framework for an Emergency Response System",
       description:
-        "Presented the research paper at the conference proceeding of 12th INDIACom-2018 (IEEE Xplore ISBN: 978-93-80544-28-1)."
+        "APRIL-2020: Presented the research paper at the conference proceeding of 12th INDIACom-2018 (IEEE Xplore ISBN: 978-93-80544-28-1)."
     },
     {
       url: "https://ieeexplore.ieee.org/document/8697364",
       title: "Automated Aspect Extraction and Aspect Oriented Sentiment Analysis on Hotel Review Datasets",
-      description: "Presented the research paper at conference proceeding of ICCUBEA-2018 (IEEE Xplore ISBN: 978-1-5386-3852-1)."
+      description: "AUG-2018: Presented the research paper at conference proceeding of ICCUBEA-2018 (IEEE Xplore ISBN: 978-1-5386-3852-1)."
     },
     {
       url: "https://ieeexplore.ieee.org/document/8318784/",
       title: "Incremental radius approach for classification",
-      description:"Presented the research paper at the conference proceeding of ICAC3-2017 (IEEE Xplore ISBN: 978-1-5386-5257-2)."
+      description:"DEC-2018: Presented the research paper at the conference proceeding of ICAC3-2017 (IEEE Xplore ISBN: 978-1-5386-5257-2)."
     }
   ],
   display: true // Set false to hide this section, defaults to true
