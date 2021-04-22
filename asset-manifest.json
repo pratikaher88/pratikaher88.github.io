@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.90e61209.chunk.css",
+    "main.js": "/static/js/main.efb23cab.chunk.js",
+    "main.js.map": "/static/js/main.efb23cab.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1a59bd40.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1a59bd40.js.map",
+    "static/js/2.128b971c.chunk.js": "/static/js/2.128b971c.chunk.js",
+    "static/js/2.128b971c.chunk.js.map": "/static/js/2.128b971c.chunk.js.map",
+    "static/css/3.00373544.chunk.css": "/static/css/3.00373544.chunk.css",
+    "static/js/3.278daa64.chunk.js": "/static/js/3.278daa64.chunk.js",
+    "static/js/3.278daa64.chunk.js.map": "/static/js/3.278daa64.chunk.js.map",
+    "static/css/4.3e7d09e6.chunk.css": "/static/css/4.3e7d09e6.chunk.css",
+    "static/js/4.c8d49d4a.chunk.js": "/static/js/4.c8d49d4a.chunk.js",
+    "static/js/4.c8d49d4a.chunk.js.map": "/static/js/4.c8d49d4a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1850f23a26ba0b6b53f9ceb8b0de7e80.js": "/precache-manifest.1850f23a26ba0b6b53f9ceb8b0de7e80.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.00373544.chunk.css.map": "/static/css/3.00373544.chunk.css.map",
+    "static/css/4.3e7d09e6.chunk.css.map": "/static/css/4.3e7d09e6.chunk.css.map",
+    "static/css/main.90e61209.chunk.css.map": "/static/css/main.90e61209.chunk.css.map",
+    "static/js/2.128b971c.chunk.js.LICENSE.txt": "/static/js/2.128b971c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/DJLogo.jpg": "/static/media/DJLogo.76b84394.jpg",
+    "static/media/berkeleyLogo.png": "/static/media/berkeleyLogo.a8552979.png",
+    "static/media/cadabra.png": "/static/media/cadabra.29a73d6e.png",
+    "static/media/cfg.jpeg": "/static/media/cfg.4ca4b309.jpeg",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
+    "static/media/manOnDesk.svg": "/static/media/manOnDesk.a73310ea.svg",
+    "static/media/manProjects.svg": "/static/media/manProjects.f7964c6b.svg",
+    "static/media/sih.jpg": "/static/media/sih.7999456d.jpg",
+    "static/media/skill.svg": "/static/media/skill.34409398.svg",
+    "static/media/TalkCard.css": "/static/media/talksCardBack.13780cdd.svg",
+    "static/media/trinity.jpg": "/static/media/trinity.1ea25ad2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a59bd40.js",
+    "static/js/2.128b971c.chunk.js",
+    "static/css/main.90e61209.chunk.css",
+    "static/js/main.efb23cab.chunk.js"
+  ]
+}
