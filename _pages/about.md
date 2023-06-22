@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 2023 graduate at University of California, Berkeley, USA with a focus in SOftware Engineering and Machine Learning. 
+I am a 2023 graduate at University of California, Berkeley, USA with a focus in Software Engineering and Machine Learning. 
 
 Prior to joining the program I have an experience of three years working as a software/ML at JP Morgan and at Tingtun (Norwegian web accessibility startup). I have worked in domains like Finance, Web accessibility, and academic research. 
 
