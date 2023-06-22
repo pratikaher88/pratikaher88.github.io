@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Need based access control framework for an emergency response system"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Need based access control framework for an emergency response system.'
