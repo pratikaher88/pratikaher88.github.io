@@ -16,13 +16,10 @@ Past summer, I interned at Amazon as an applied scientist where I worked on grap
 
 As of June 2023, I am looking for full time roles in software engineering and Machine Learning Engineering.
 
-Brief CV
+Brief CV : 
 
-    September 2021– May 2023: Masters student at UC Berkeley, USA.
-    May 2022 - AUgust 2022: Applied Science intern at Amazon Science (Alexa Team).
-    Jan 2021 - August 2021: Software Enginner at Tingtun AS, Norway.
-    June 2018 - Dec 2020: Associate software engineer at JP Morgan Chase & Co.
-    2014-2018: Bachelor in Information Technology at DJSCE, Mumbai.
-
-
-Berkeley grad, Fullstack dev for 3+ years at JP Morgan Chase and a Tingtun (Norwegian startup), Published 3 papers in top ML conferences, Previous experience at Amazon as Applied Science intern
+  September 2021– May 2023: Masters student at UC Berkeley, USA.
+  May 2022 - AUgust 2022: Applied Science intern at Amazon Science (Alexa Team).
+  Jan 2021 - August 2021: Software Enginner at Tingtun AS, Norway.
+  June 2018 - Dec 2020: Associate software engineer at JP Morgan Chase & Co.
+  2014-2018: Bachelor in Information Technology at DJSCE, Mumbai.
