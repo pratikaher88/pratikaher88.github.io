@@ -9,15 +9,7 @@ location: "Berkeley, USA"
 ---
 
 
+ Fall 2021: TA for Statistics 20, taught by Prof. Shobha Murali Stoyanov . Duties involve designing assignments and quizzes, holding office hours, and grading.
 
-<!-- 
-This is a description of a teaching experience. You can use markdown like any other post.
+Class Size : 700 
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-====== -->

@@ -8,13 +8,7 @@ date: 2023-01-01
 location: "Berkeley, USA"
 ---
 
-<!-- This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
+ Spring 2022, Fall 2022, Sprinf 2023: TA for Intro to business and analytics, taught by Prof. Luyi Yang. Duties involve holding discussion sections, designing assignments and quizzes, holding office hours, and grading.
 
-Heading 2
-======
-
-Heading 3
-====== -->
+Class Size : 240
