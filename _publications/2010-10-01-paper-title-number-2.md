@@ -6,9 +6,6 @@ excerpt: 'We have implemented an automated system that extracts the aspect terms
 date: 2021-4-11
 venue: 'IEEE'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8697364'
-# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
 [Download paper here](https://ieeexplore.ieee.org/abstract/document/8697364)
-
-<!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->

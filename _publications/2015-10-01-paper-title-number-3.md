@@ -6,7 +6,6 @@ excerpt: 'Innovation patent for need based access system.'
 date: 2021-4-11
 venue: 'IP Austrailia'
 paperurl: 'https://www.turcomat.org/index.php/turkbilmat/article/view/2037'
-# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
 [Download paper here](https://www.scribd.com/document/620709422/2021103018-Innovation-Patent-Certificate-1#)
