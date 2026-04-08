@@ -34,7 +34,7 @@ redirect_from:
       <ul class="exp-bullets">
         <li>Worked on HSTU, Meta's LLM-like self-attention based sequential retrieval foundation model for Instagram Reels. Designed a Sequential Interest Encoder via cross-attention — improved offline share Recall@50 by <strong>XX%</strong> and drove a <strong>XX% increase</strong> in Reels sharing post-launch.</li>
         <li>Leading design of HSTU for Instagram Feed retrieval, integrating hierarchical mixed gating and multimedia-type ranking across photo, video, and carousel — resulting in a <strong>XX% increase</strong> in time spent on Instagram.</li>
-        <li>Delivered efficiency improvements of approximately <strong>1.03 MW (~$9.7M/year)</strong> through training data sampling, sequence length reduction, and dimensionality reduction.</li>
+        <li>Delivered efficiency improvements of approximately <strong>XX</strong> through training data sampling, sequence length reduction, and dimensionality reduction.</li>
       </ul>
       <div class="exp-tags">
         <span>PyTorch</span>
